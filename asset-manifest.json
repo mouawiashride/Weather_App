@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather_App/static/css/main.783f005e.css",
+    "main.js": "/Weather_App/static/js/main.3b198975.js",
+    "static/media/weathericons-regular-webfont.svg": "/Weather_App/static/media/weathericons-regular-webfont.3726e04a389324097351.svg",
+    "static/media/weathericons-regular-webfont.ttf": "/Weather_App/static/media/weathericons-regular-webfont.520c26b13fefaeef5c94.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/Weather_App/static/media/weathericons-regular-webfont.e4d2c00ed56824803ce0.woff",
+    "static/media/weathericons-regular-webfont.eot": "/Weather_App/static/media/weathericons-regular-webfont.db8e6bec2adb2a3e2779.eot",
+    "index.html": "/Weather_App/index.html",
+    "main.783f005e.css.map": "/Weather_App/static/css/main.783f005e.css.map",
+    "main.3b198975.js.map": "/Weather_App/static/js/main.3b198975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783f005e.css",
+    "static/js/main.3b198975.js"
+  ]
+}
